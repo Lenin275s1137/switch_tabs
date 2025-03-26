@@ -1,0 +1,16 @@
+a.active {
+    background-color: red;
+}
+
+.tab {
+    display: none;
+}
+
+.text {
+    display: none;
+}
+
+.active {
+    display: inline-block;
+}
+
